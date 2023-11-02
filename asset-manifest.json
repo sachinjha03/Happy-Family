@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Happy-Family/static/css/main.b33a7a2f.css",
-    "main.js": "/Happy-Family/static/js/main.8813e854.js",
+    "main.js": "/Happy-Family/static/js/main.f20c32d3.js",
     "static/js/787.cda612ba.chunk.js": "/Happy-Family/static/js/787.cda612ba.chunk.js",
     "static/media/contactPageBg.png": "/Happy-Family/static/media/contactPageBg.c568a90f48c062b87375.png",
     "static/media/loginPageBg.jpg": "/Happy-Family/static/media/loginPageBg.ff63522436daac87e27d.jpg",
@@ -16,7 +16,6 @@
     "static/media/goals achieved section img.png": "/Happy-Family/static/media/goals achieved section img.b11948fee8eb1f79678a.png",
     "static/media/about us section img.png": "/Happy-Family/static/media/about us section img.fe68b36918fe3ac4b0e6.png",
     "static/media/frame.png": "/Happy-Family/static/media/frame.bc4ffae46169339e3260.png",
-    "static/media/c logo 1.png": "/Happy-Family/static/media/c logo 1.5072f5914e728c308bad.png",
     "static/media/c logo 3.png": "/Happy-Family/static/media/c logo 3.7e4e721b9a714a34ae1a.png",
     "static/media/volunteer-work-4.png": "/Happy-Family/static/media/volunteer-work-4.8ed2e9b47d401364f8c7.png",
     "static/media/logo.png": "/Happy-Family/static/media/logo.7fff66788ec91af47a31.png",
@@ -39,11 +38,11 @@
     "static/media/c logo 4.png": "/Happy-Family/static/media/c logo 4.48ec4e59bbf469447223.png",
     "index.html": "/Happy-Family/index.html",
     "main.b33a7a2f.css.map": "/Happy-Family/static/css/main.b33a7a2f.css.map",
-    "main.8813e854.js.map": "/Happy-Family/static/js/main.8813e854.js.map",
+    "main.f20c32d3.js.map": "/Happy-Family/static/js/main.f20c32d3.js.map",
     "787.cda612ba.chunk.js.map": "/Happy-Family/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b33a7a2f.css",
-    "static/js/main.8813e854.js"
+    "static/js/main.f20c32d3.js"
   ]
 }
