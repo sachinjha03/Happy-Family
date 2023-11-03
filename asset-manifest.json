@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Happy-Family/static/css/main.b33a7a2f.css",
-    "main.js": "/Happy-Family/static/js/main.f20c32d3.js",
+    "main.css": "/Happy-Family/static/css/main.b3526bb6.css",
+    "main.js": "/Happy-Family/static/js/main.e1fd329b.js",
     "static/js/787.cda612ba.chunk.js": "/Happy-Family/static/js/787.cda612ba.chunk.js",
     "static/media/contactPageBg.png": "/Happy-Family/static/media/contactPageBg.c568a90f48c062b87375.png",
     "static/media/loginPageBg.jpg": "/Happy-Family/static/media/loginPageBg.ff63522436daac87e27d.jpg",
@@ -37,12 +37,12 @@
     "static/media/love-img.png": "/Happy-Family/static/media/love-img.92008dbeeed6626dac22.png",
     "static/media/c logo 4.png": "/Happy-Family/static/media/c logo 4.48ec4e59bbf469447223.png",
     "index.html": "/Happy-Family/index.html",
-    "main.b33a7a2f.css.map": "/Happy-Family/static/css/main.b33a7a2f.css.map",
-    "main.f20c32d3.js.map": "/Happy-Family/static/js/main.f20c32d3.js.map",
+    "main.b3526bb6.css.map": "/Happy-Family/static/css/main.b3526bb6.css.map",
+    "main.e1fd329b.js.map": "/Happy-Family/static/js/main.e1fd329b.js.map",
     "787.cda612ba.chunk.js.map": "/Happy-Family/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b33a7a2f.css",
-    "static/js/main.f20c32d3.js"
+    "static/css/main.b3526bb6.css",
+    "static/js/main.e1fd329b.js"
   ]
 }
